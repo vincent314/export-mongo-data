@@ -1,0 +1,13 @@
+{
+  "name": "export-mongo-data",
+  "globalDependencies": {
+    "chalk": "github:DefinitelyTyped/DefinitelyTyped/chalk/chalk.d.ts#816f03f3e4a97c0f4b5dd12bb1302a1d3b8b9f7c",
+    "lodash": "github:DefinitelyTyped/DefinitelyTyped/lodash/lodash.d.ts#816f03f3e4a97c0f4b5dd12bb1302a1d3b8b9f7c",
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "mongodb": "github:DefinitelyTyped/DefinitelyTyped/mongodb/mongodb.d.ts#816f03f3e4a97c0f4b5dd12bb1302a1d3b8b9f7c",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#816f03f3e4a97c0f4b5dd12bb1302a1d3b8b9f7c"
+  },
+  "dependencies": {
+    "firebase": "github:typed-typings/npm-firebase#7dceb15"
+  }
+}

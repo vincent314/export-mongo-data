@@ -1,0 +1,19 @@
+{
+  "name": "export-mongo-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node $NODE_DEBUG_OPTION src/export.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "firebase": "^3.1.0",
+    "lodash": "^4.12.0",
+    "moment": "^2.14.1",
+    "mongodb": "^2.1.19"
+  }
+}

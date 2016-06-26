@@ -1,0 +1,7 @@
+node_modules
+.idea
+typings
+**/*.js
+**/*.map
+src/fire-rol-*.json
+src/secret.ts
